@@ -29,11 +29,11 @@ public class BooktopiaTests extends BaseTest {
 		bookSearchPage.searchBook(row);
 		
 		//Step 4: add couple of more books
-		bookHomePage.mouseHoverFiction();
-		bookSearchPage.searchBook(++row);
+		//bookHomePage.mouseHoverFiction();
+		//bookSearchPage.searchBook(++row);
 		
-		bookHomePage.mouseHoverEducation();
-		bookSearchPage.searchBook(++row);
+		//bookHomePage.mouseHoverEducation();
+		//bookSearchPage.searchBook(++row);
 		
 		  
 /*		//Step 4: Click Login with FaceBook Account
